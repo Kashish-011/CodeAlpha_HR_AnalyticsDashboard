@@ -93,13 +93,6 @@ The dataset contains employee-related information including:
 4. Analyze employee trends and attrition patterns.
 
 ---
-
-## 📸 Dashboard Preview
-
-<img width="100%" alt="HR Analytics Dashboard" src="dashboard_screenshot.png">
-
----
-
 ## 📋 Internship Information
 
 **Organization:** CodeAlpha  
